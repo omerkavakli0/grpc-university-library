@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cc6ATSmOQPnmGJQCn04RVcY3TPDxmNLgsmCMVDCI/Ziz4YVkhcMs8vhpi41KO47a9UOutv6RdUt5SYzLa7eGWw==",
+  "success": true,
+  "projectFilePath": "/home/omer/Documents/lessons/bahar_3/oss/grpc/src/client/client.csproj",
+  "expectedPackageFiles": [
+    "/home/omer/.nuget/packages/google.protobuf/3.31.1/google.protobuf.3.31.1.nupkg.sha512",
+    "/home/omer/.nuget/packages/grpc.core.api/2.71.0/grpc.core.api.2.71.0.nupkg.sha512",
+    "/home/omer/.nuget/packages/grpc.net.client/2.71.0/grpc.net.client.2.71.0.nupkg.sha512",
+    "/home/omer/.nuget/packages/grpc.net.common/2.71.0/grpc.net.common.2.71.0.nupkg.sha512",
+    "/home/omer/.nuget/packages/grpc.tools/2.72.0/grpc.tools.2.72.0.nupkg.sha512",
+    "/home/omer/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
